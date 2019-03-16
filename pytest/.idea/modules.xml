@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Interface/.idea/Interface.iml" filepath="$PROJECT_DIR$/../Interface/.idea/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InterfaceExcel/.idea/InterfaceExcel.iml" filepath="$PROJECT_DIR$/../InterfaceExcel/.idea/InterfaceExcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appiumTest/.idea/appiumTest.iml" filepath="$PROJECT_DIR$/../appiumTest/.idea/appiumTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpRunner/.idea/httpRunner.iml" filepath="$PROJECT_DIR$/../httpRunner/.idea/httpRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pytest.iml" filepath="$PROJECT_DIR$/.idea/pytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study/.idea/study.iml" filepath="$PROJECT_DIR$/../study/.idea/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../uiTest/.idea/uiTest.iml" filepath="$PROJECT_DIR$/../uiTest/.idea/uiTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wapTest/.idea/wapTest.iml" filepath="$PROJECT_DIR$/../wapTest/.idea/wapTest.iml" />
+    </modules>
+  </component>
+</project>
